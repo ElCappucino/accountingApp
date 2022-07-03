@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\obj\Debug\accountingApp1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\obj\Debug\accountingApp1_MarkupCompile.cache
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\obj\Debug\accountingApp1_MarkupCompile.lref
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\bin\Debug\accountingApp1.exe.config
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\bin\Debug\accountingApp1.exe
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\bin\Debug\accountingApp1.pdb
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\obj\Debug\accountingApp1.g.resources
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\obj\Debug\accountingApp1.Properties.Resources.resources
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\obj\Debug\accountingApp1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\obj\Debug\accountingApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\obj\Debug\accountingApp1.exe
+C:\Users\Admin\source\repos\accountingApp1\accountingApp1\obj\Debug\accountingApp1.pdb
